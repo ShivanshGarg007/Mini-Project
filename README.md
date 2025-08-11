@@ -1,3 +1,4 @@
+
 # fullstack-docker-app
 
 A simple fullstack app with React frontend, Express backend, and PostgreSQL database using Docker Compose.
@@ -17,4 +18,6 @@ A simple fullstack app with React frontend, Express backend, and PostgreSQL data
 
 ## Author
 
-Your Name
+Shivansh Garg
+=======
+# Mini-Project
